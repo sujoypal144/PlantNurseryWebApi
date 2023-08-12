@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QZn8+wTVSw+9sRufD/pDT7N7ZR1UJyLqSl/1a7nS8o4=",
+  "Source": "PlantNurseryWebApi",
+  "BasePath": "_content/PlantNurseryWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
